@@ -10,4 +10,4 @@ type = "post"
 +++
 Texto...
 
-{{< movie="tt1285016" >}}
+{{< movie "tt1285016" >}}
