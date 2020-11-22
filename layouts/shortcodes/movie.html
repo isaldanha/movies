@@ -1,4 +1,10 @@
 {{ $id := .Get 0 }}
-<div class="movie">
-  Title: {{ .Site.Data.$id.Title }}
+<div class="movie" style="border:thin solid black;">
+  {{ range .Site.Data }}
+    {{ if eq .imdb_id "$id" }}
+      {{ .title }}
+      <br>
+      {{ .description }}
+    {{ end }}
+  {{ end }}
 </div>
