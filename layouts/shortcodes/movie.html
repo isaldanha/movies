@@ -1,3 +1,4 @@
+{{ $id := .Get 0 }}
 <div class="movie">
-  Movie id: {{ .Get 0 }}
+  Title: {{ .Site.Data.$id.Title }}
 </div>
