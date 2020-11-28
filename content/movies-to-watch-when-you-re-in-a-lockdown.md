@@ -8,3 +8,22 @@ title = "Movies to watch when you're in a lockdown"
 type = "post"
 
 +++
+{{< movie "tt0047396" >}}
+
+{{< movie "tt0099785" >}}
+
+{{< movie "tt0123755" >}}
+
+{{< movie "tt0107048" >}}
+
+{{< movie "tt0091369" >}}
+
+{{< movie "tt7984734" >}}
+
+{{< movie "tt0159097" >}}
+
+{{< movie "tt0063350" >}}
+
+{{< movie "tt0084787" >}}
+
+{{< movie "tt0056732" >}}
