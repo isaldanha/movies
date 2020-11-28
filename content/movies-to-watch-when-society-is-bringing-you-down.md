@@ -8,3 +8,22 @@ title = "Movies to watch when society is bringing you down"
 type = "post"
 
 +++
+{{< movie "tt0087803" >}}
+
+{{< movie "tt0758758" >}}
+
+{{< movie "tt0075314" >}}
+
+{{< movie "tt0206634" >}}
+
+{{< movie "tt0434409" >}}
+
+{{< movie "tt0266308" >}}
+
+{{< movie "tt0088846" >}}
+
+{{< movie "tt6751668" >}}
+
+{{< movie "tt3464902" >}}
+
+{{< movie "tt0074812" >}}
