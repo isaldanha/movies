@@ -8,3 +8,22 @@ title = "Movies to watch when the Pentagon is releasing UFO videos"
 type = "post"
 
 +++
+{{< movie "tt0075860" >}}
+
+{{< movie "tt0046534" >}}
+
+{{< movie "tt0118884" >}}
+
+{{< movie "tt2543164" >}}
+
+{{< movie "tt0083866" >}}
+
+{{< movie "tt0091059" >}}
+
+{{< movie "tt0096754" >}}
+
+{{< movie "tt0043456" >}}
+
+{{< movie "tt0078748" >}}
+
+{{< movie "tt0116996" >}}
