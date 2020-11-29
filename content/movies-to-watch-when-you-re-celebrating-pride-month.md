@@ -5,7 +5,7 @@ description = "List of movies to watch when you're celebrating Pride month"
 image = "/images/pride.png"
 tags = ["Movies", "Movies to watch", "Movie recommendation", "List of movies", "LGBTQ", "Pride", "Love Wins", "Rainbow", "Brokeback Mountain", "Boys Don't Cry", "A Single Man", "Call Me by Your Name", "Pink Flamingos", "The Hours", "Happy Together", "Velvet Goldmine", "Todo sobre mi madre", "My Own Private Idaho"]
 title = "Movies to watch when you're celebrating Pride month"
-type = "post"
+type = "feature"
 
 +++
 {{< movie "tt0388795" >}}
