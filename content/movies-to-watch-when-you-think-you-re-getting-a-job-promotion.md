@@ -5,7 +5,7 @@ description = "List of movies to watch when you think you're getting a job promo
 image = "/images/job-promotion.png"
 tags = ["Movies to watch", "Movies", "Movie recommendation", "Movie Lists", "Job promotion", "Work", "Corporate ladder", "Working life", "Working girl", "Big", "The Devil Wears Prada", "The Wolf of Wall Street", "Reality Bites", "Nine to Five", "Office Space", "Up in the Air", "Jerry Maguire", "The Secret of My Success"]
 title = "Movies to watch when you think you're getting a job promotion"
-type = "post"
+type = "feature"
 
 +++
 {{< movie "tt0096463" >}}
