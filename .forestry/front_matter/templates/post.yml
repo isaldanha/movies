@@ -27,6 +27,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- content/movies-to-watch-when-everyone-is-wearing-a-face-mask.md
 - content/movies-to-watch-when-society-is-bringing-you-down-2-black-lives-matter-edition.md
 - content/movies-to-watch-when-society-is-bringing-you-down.md
 - content/movies-to-watch-when-the-pentagon-is-releasing-ufo-videos.md
