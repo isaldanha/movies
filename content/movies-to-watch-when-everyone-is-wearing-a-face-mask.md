@@ -5,7 +5,7 @@ description = "List of movies to watch when everyone is wearing a face mask"
 image = "/images/face-mask.png"
 tags = ["Movies to watch", "Movies", "Movie recommendation", "Face masks", "Pandemic", "Social Distancing", "New reality", "Covid 19", "Corona Virus", "The Dark Knight Rises", "Point Break", "The Mask", "Les Vampires", "Halloween", "Friday the 13th", "Phantom of the Paradise", "Scream", "The Silence of the Lambs", "Eyes without a Face"]
 title = "Movies to watch when everyone is wearing a face mask"
-type = "post"
+type = "feature"
 
 +++
 {{< movie "tt1345836" >}}
