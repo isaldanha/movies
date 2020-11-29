@@ -5,7 +5,7 @@ description = "List of movies to watch when society is bringing you down ( Black
 image = "/images/blacklivesmatter.png"
 tags = ["Movie recommendation", "Movies", "Movies List", "Society", "New Reality", "Black Lives Matter", "Activism", "Movies to watch", "Violence", "Malcom X", "Within Our Gates", "Hidden Figures", "Selma", "Moonlight", "BlacKkKlansman", "The Hate U Give", "Bamboozled", "A Raisin in the Sun", "Get Out"]
 title = "Movies to watch when society is bringing you down #2 - Black Lives Matter Edition"
-type = "post"
+type = "feature"
 
 +++
 {{< movie "tt0104797" >}}
